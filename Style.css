@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background-color: lemonchiffon;
+    font-size: 1.2vw;
+}
+
+#logo {
+    margin: 0px;
+    padding: 8px;
+    font-family: "Fredoka One", sans-serif;
+    color:rgb(121, 64, 245);
+    
+    
+}
+
+ul{
+    margin: 9px;
+    list-style: none;
+    padding-left: 0%;
+}
+
+section > h4 {
+    padding: 4%;
+}
+
+body > header {
+    background-color: #ADEBB3;
+    display: flex;
+    height: 7vh;
+    align-items: center;
+    justify-content:space-around;
+
+}
+
+#Naver {
+    display: flex;
+}
+
+#Naver > li {
+    padding: 8px;
+    margin: 16px;
+    
+}
+
+.navbutton {
+    color: rgb(73, 32, 163);
+    text-decoration: none;
+    padding: 12px;
+    border: 1px solid rgb(73, 32, 163);
+    border-radius: 10px;
+    font-size: large;
+    font-weight: 700;
+}
+
+body > main article {
+    width: 80%;
+    margin: auto;
+}
+
+#Maincontent {
+    display: flex;
+    justify-content: space-around;
+}
+
+#Maincontent > div {
+    width: 70%;
+}
+form {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#Maincontent > aside > section > h4{
+    color: blue;
+}
+
+#Month {
+    color: royalblue;
+}
+
+
+
+
+#Category > li > a {
+    color: royalblue;
+    
+}
+
+body > footer {
+    background-color: white;
+    display: flex;
+}
+
+img {
+    border-radius: 15%;
+}
+
+body > footer {
+    background-color: orange;
+}
+
+#Footerul {
+    display: flex;
+}
+#Footerul > div > li {
+    margin-left: 12px;
+}
+
+#Footerul > div > li > a {
+    color: white;
+    text-decoration: none;
+
+}
